@@ -11,7 +11,7 @@ function App() {
         <img src={imageInSrc}  alt="imageInSrc" width="100px" />
 
         <br />
-        <img src="/imageInPublic.jpg"  alt="imageInPublic" width="100px" />
+        <img src="./imageInPublic.jpg"  alt="imageInPublic" width="100px" />
         <br />
       </div>
       <video width="320" height="240" controls>
